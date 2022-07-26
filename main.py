@@ -168,5 +168,3 @@ while True:
         break
         
     os.system('cls')
-
-wait = input()
